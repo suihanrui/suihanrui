@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://suihanrui.github.io</id>
+    <id>https://suihanrui.github.io/suihanrui/</id>
     <title>SUI Portfolio</title>
-    <updated>2020-10-28T07:38:38.829Z</updated>
+    <updated>2020-10-28T07:47:58.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://suihanrui.github.io"/>
-    <link rel="self" href="https://suihanrui.github.io/atom.xml"/>
+    <link rel="alternate" href="https://suihanrui.github.io/suihanrui/"/>
+    <link rel="self" href="https://suihanrui.github.io/suihanrui/atom.xml"/>
     <subtitle>🙋欢迎来到眭晗瑞的个人作品集网站</subtitle>
-    <logo>https://suihanrui.github.io/images/avatar.png</logo>
-    <icon>https://suihanrui.github.io/favicon.ico</icon>
+    <logo>https://suihanrui.github.io/suihanrui/images/avatar.png</logo>
+    <icon>https://suihanrui.github.io/suihanrui/favicon.ico</icon>
     <rights>All rights reserved 2020, SUI Portfolio</rights>
 </feed>
